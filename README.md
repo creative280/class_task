@@ -1,2 +1,2 @@
 # class_task
-Excersice with collaborators
+CIAF Universtity Excersice with collaborators
